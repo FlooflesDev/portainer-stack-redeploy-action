@@ -19,7 +19,7 @@ This action allows you to update the stack with pull new images if you can't use
 ## Example usage
 
 ```yaml
-uses:  flooflesdev/portainer-stack-redeploy-action@v1.1
+uses:  FlooflesDev/portainer-stack-redeploy-action@v1.0.1
 with:
   portainerUrl: 'https://example.com:9443'
   accessToken: 'ptr_XXXyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy'
