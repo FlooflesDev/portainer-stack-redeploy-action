@@ -28,7 +28,6 @@ with:
 
 ## Features
 
-- Supports both HTTP and HTTPS Portainer instances
 - Handles URL normalization
 
 ## Error Handling

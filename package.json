@@ -5,7 +5,8 @@
   "main": "src/index.js",
   "scripts": {
     "start": "node index.js",
-    "build": "ncc build index.js --license licenses.txt -o dist"
+    "test": "node src/test.js",
+    "build": "ncc build src/index.js --license licenses.txt -o dist"
   },
   "keywords": [
     "portainer",
